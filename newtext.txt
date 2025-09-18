@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 THIS PAGE IN NEW GITBRANCH IN CREATED 
+=======
+this created in file 
+>>>>>>> gitbranch1
